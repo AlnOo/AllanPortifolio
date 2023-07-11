@@ -48,9 +48,9 @@ function article_2() {
 		style: ``,
 		keywords: [
 			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Allan",
+			"Allan O",
+			"Allan Odhiambo",
 		],
 		body: (
 			<React.Fragment>
